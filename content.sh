@@ -1,2 +1,1 @@
 echo "xsajj"
-echo "npmqj"
