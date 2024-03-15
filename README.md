@@ -1,23 +1,25 @@
-**This is a mock repository.** 
+# Note
+These commits are coming from github private repository
 
-The aim of this repository is to report in GitHub contributions coming from other platforms.
+# EVOLVE FMS
 
-It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
+[//]: # (<img src="assets/app_icon.png" alt="App Icon" height="100" width="100">)
 
-## Notice
+This is Field Management System app built using Flutter that communicates with an Odoo back-end using REST APIs.
 
-The content of this repository contains mock code. This prevents private source code to be leaked. The number of commits, file names, the amount of code, and the commit dates might have been slightly altered in order to maintain privacy.
 
-Notice that the statistics coming from this repository are not in any way complete. Commits only come from other selected git repositories. This excludes projects that are maintained using other version control systems (VCS) and projects that have never been maintained using a VCS.
+## Screenshots
 
-## Reasons
+<img src="assets/screenshots/1.png" alt="Screenshot 1" width="300">
 
-GitHub shows contributions statistics of its users. There are [several reasons](https://github.com/isaacs/github/issues/627) why this feature could be debatable.
+<img src="assets/screenshots/2.png" alt="Screenshot 2" width="300">
 
-Moreover, this mechanism only rewards developers that work in companies that host projects on GitHub.
+<img src="assets/screenshots/3.png" alt="Screenshot 3" width="300">
 
-Considering the undeniably popularity of GitHub, developers that use other platforms are disadvantaged. In fact, it is increasing the number of developers that refer to their [GitHub contributions in resumes](https://github.com/resume/resume.github.com). Similarly, recruiters [may use GitHub to find talents](https://www.socialtalent.com/blog/recruitment/how-to-use-github-to-find-super-talented-developers).
+<img src="assets/screenshots/4.png" alt="Screenshot 4" width="300">
 
-In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
+<img src="assets/screenshots/5.png" alt="Screenshot 5" width="300">
 
-Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
+<img src="assets/screenshots/6.png" alt="Screenshot 6" width="300">
+
+<img src="assets/screenshots/7.png" alt="Screenshot 7" width="300">
